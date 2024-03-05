@@ -2,7 +2,7 @@
 title: 2024年2月训记
 tags:
   - Training
-image: /static/images/TrainingDiaryCover.png
+image: /static/images/TrainingDiaryCover2.png
 pubDate: 2024-03-05
 updatedDate: 2024-03-05
 description: Records of February's Training

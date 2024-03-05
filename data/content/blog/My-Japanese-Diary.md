@@ -2,7 +2,7 @@
 title: 日記
 tags:
   - Learning
-image: /static/images/JapaneseImg.jpg
+image: /static/images/JapaneseImg.png
 pubDate: 2024-03-04
 updatedDate: 2024-03-04
 description: My first Japanese diary

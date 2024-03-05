@@ -10,7 +10,7 @@ const siteMetadata = {
   siteUrl: "https://blog.soapie.life",
   siteRepo: "MyBlog",
   repoid:"R_kgDOLbVedA",
-  //categoryid: "",
+  categoryid: "DIC_kwDOLbVedM4CdufE",
   siteLogo: "/static/favicons/favicon.ico",
   image: "/static/images/avatar.png",
   cover: "/static/favicons/cover.png",

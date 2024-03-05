@@ -2,6 +2,8 @@
 title: 日記
 tags:
   - personal
+image:
+  - /static/images/JapaneseImg.jpg
 pubDate: 2024-03-04
 updatedDate: 2024-03-04
 description: My first Japanese diary

@@ -8,7 +8,7 @@ const siteMetadata = {
   language: "zh-cn",
   keywords:['Soap', '序章'],
   siteUrl: "https://blog.soapie.life",
-  siteRepo: "prologue_blog",
+  siteRepo: "MyBlog",
   repoid:"R_kgDOLbVedA",
   //categoryid: "",
   siteLogo: "/static/favicons/favicon.ico",

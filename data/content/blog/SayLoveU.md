@@ -6,4 +6,4 @@ pubDate: 2024-03-05
 updatedDate: 2024-03-05
 description: 随便唱唱
 ---
-<audio src="/static/images/SayLoveU.aac">说爱你</audio>
+<audio src="/static/images/SayLoveU.mp3">说爱你</audio>

@@ -7,4 +7,4 @@ updatedDate: 2024-03-05
 description: 随便唱唱
 ---
 # 说爱你
-![说爱你](/static/images/SayLoveU.mp3)
+<audio id="audio" src="/static/media/SayLoveU.mp3">说爱你</audio>

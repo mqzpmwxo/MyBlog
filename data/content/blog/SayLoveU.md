@@ -7,4 +7,6 @@ updatedDate: 2024-03-05
 description: 随便唱唱
 ---
 # 说爱你
-<audio src="https://github.com/mqzpmwxo/MyBlog/blob/main/public/static/images/SayLoveU.mp3"></audio>
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://github.com/mqzpmwxo/MyBlog/blob/main/public/static/images/SayLoveU.mp3">
+</audio>

@@ -7,5 +7,6 @@ updatedDate: 2024-03-07
 description: 觉得唱的还不错，就发上来咯
 ---
 
- [![](/static/images/shangchunshan.mp4)] 
- 上春山(rnb版)
+<video width="320" height="240" controls>
+  <source src="/static/media/shangchunshan.mp4" type="video/mp4">
+</video>

@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: "Soap's Secret ",
   author: "Soap",
-  authorDesc:"Life is a Struggle.",
+  authorDesc:"该博客旨在记录生活.",
   publishName: "Soap",
   //headerTitle: "艺术千秋，人生朝露",
   //description:"对当下的反思和批判",

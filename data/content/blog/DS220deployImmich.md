@@ -10,14 +10,14 @@ description: 群晖部署Immich实现照片自动备份
 
 # Immich介绍
 Immich是一款用于移动设备上备份照片和视频的自托管解决方案。它是一个开源项目。Immich旨在提供一个隐私保护的备份系统，让用户能够对自己的数据进行完全控制。
-<img src="/public/static/images/Pasted-image-20240328103608.png" alt="content" />
+<img src="/static/images/Pasted-image-20240328103608.png" alt="content" />
 
 官网：[https://immich.app](https://immich.app/)  
 Github：[https://github.com/immich-app/immich](https://github.com/immich-app/immich)  
 
 # 在NAS部署Immich相册
 - 在该目录下建立名字为library的目录（该目录用来存放immich备份的照片和视频）
-<img src="/public/static/images/Pasted-image-20240328104415.png" alt="content" />
+<img src="/static/images/Pasted-image-20240328104415.png" alt="content" />
 
 - 下载官方docker-compose.yml
 ```
@@ -36,23 +36,23 @@ wget -O .env https://github.com/immich-app/immich/releases/latest/download/examp
 
 ## 新增项目
 自定项目名称，选择immich目录（下载docker-compose.yml的目录），使用现有docker-compose.yml新建项目
-<img src="/public/static/images/Pasted-image-20240328105019.png" alt="content" />
+<img src="/static/images/Pasted-image-20240328105019.png" alt="content" />
 
 ## 自动识别yml文件
-<img src="/public/static/images/Pasted-image-20240328104944.png" alt="content" />
+<img src="/static/images/Pasted-image-20240328104944.png" alt="content" />
 
 下一步
 ## 启动项目
-<img src="/public/static/images/Pasted-image-20240328105244.png" alt="content" />
+<img src="/static/images/Pasted-image-20240328105244.png" alt="content" />
 项目启动中
-<img src="/public/static/images/Pasted-image-20240328105439.png" alt="content" />
+<img src="/static/images/Pasted-image-20240328105439.png" alt="content" />
 等待时长视自身网络情况而定
 
 ---
 
 # 访问Immich
 - ip:port
-<img src="/public/static/images/Pasted-image-20240328111334.png" alt="content" />
+<img src="/static/images/Pasted-image-20240328111334.png" alt="content" />
 - 注册
-<img src="/public/static/images/Pasted-image-20240328111417.png" alt="content" />
+<img src="/static/images/Pasted-image-20240328111417.png" alt="content" />
 完成后登录，玩儿去吧

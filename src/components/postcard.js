@@ -30,6 +30,9 @@ export default function PostCard({
       </div>
 
       <Link href={slug}>
+        <h3 className="no-underline hover:underline text-xl font-semibold py-2">
+          {title}
+        </h3>
         {image != "" ? (
           <div className="relative overflow-hidden bg-cover bg-no-repeat inset-0 rounded-xl ring-1 ring-inset ring-zinc-900/10 my-2 drop-shadow-sm shadow-sm">
             <Image
@@ -42,9 +45,6 @@ export default function PostCard({
             />
           </div>
         ) : null}
-        <h3 className="no-underline hover:underline text-xl font-semibold py-2">
-          {title}
-        </h3>
       </Link>
       {description && (
         <p className="prose py-1 dark:prose-invert max-w-none">{description}</p>
